@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carlsberg Excellence - Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="main-container">
+        <div class="sidebar">
+            <h1>🏭 CarlEx</h1>
+            <p>Excellence Implementation</p>
+            <div class="departments-list" id="departmentList"></div>
+        </div>
+        <div class="content-area">
+            <div class="header">
+                <h2 id="departmentTitle">Carlsberg Excellence</h2>
+                <p id="departmentSubtitle">12-Month Implementation Roadmap</p>
+            </div>
+            <div class="slide-container" id="slideContainer"></div>
+            <div class="controls">
+                <button class="control-btn" id="prevBtn" onclick="app.previousSlide()">← Previous</button>
+                <span class="slide-counter"><span id="currentSlide">1</span> / <span id="totalSlides">1</span></span>
+                <button class="control-btn" id="nextBtn" onclick="app.nextSlide()">Next →</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

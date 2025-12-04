@@ -1,0 +1,588 @@
+[
+  {
+    "name": "Packaging",
+    "icon": "\ud83d\udce6",
+    "slides": [
+      {
+        "type": "title",
+        "title": "PACKAGING DEPARTMENT",
+        "subtitle": "Carlsberg Excellence Roadmap",
+        "baseline": "13.3%",
+        "target": "36.7%",
+        "gap": "+0.93 points"
+      },
+      {
+        "type": "radial",
+        "title": "Maturity Benchmark",
+        "subtitle": "5-Dimension Assessment",
+        "dimensions": [
+          {
+            "name": "Zone Management",
+            "current": 2,
+            "budgeted": 3,
+            "kastzalan": 3
+          },
+          {
+            "name": "Workflow Std",
+            "current": 1,
+            "budgeted": 2,
+            "kastzalan": 3
+          },
+          {
+            "name": "Visual Mgmt",
+            "current": 1,
+            "budgeted": 2,
+            "kastzalan": 2
+          },
+          {
+            "name": "Performance",
+            "current": 2,
+            "budgeted": 3,
+            "kastzalan": 3
+          },
+          {
+            "name": "Organizational",
+            "current": 1,
+            "budgeted": 2,
+            "kastzalan": 2
+          }
+        ]
+      },
+      {
+        "type": "assessment",
+        "title": "Current State",
+        "strengths": [
+          "Line 4 digital OEE operational",
+          "PMS meetings at L2/L3/L4",
+          "M1/M3 abnormality in place",
+          "TPM improvements ongoing"
+        ],
+        "gaps": [
+          "No 9-Grid cascade",
+          "Workflow gaps",
+          "No Gemba Kaizen",
+          "Leadership development needed"
+        ]
+      },
+      {
+        "type": "roadmap",
+        "title": "12-Month Roadmap",
+        "phases": [
+          {
+            "month": "Month 1-2",
+            "focus": "Foundation",
+            "activities": [
+              "Deploy 9-Grid",
+              "Establish PMS L4",
+              "Define KPIs"
+            ]
+          },
+          {
+            "month": "Month 3-4",
+            "focus": "Workflows",
+            "activities": [
+              "Map workflows",
+              "Visual standards",
+              "KPI boards"
+            ]
+          },
+          {
+            "month": "Month 5-8",
+            "focus": "Kaizen",
+            "activities": [
+              "Gemba Kaizen",
+              "RCA training",
+              "30/60/90 plan"
+            ]
+          },
+          {
+            "month": "Month 9-12",
+            "focus": "Sustainability",
+            "activities": [
+              "Leadership dev",
+              "Gemba walks",
+              "Target 36.7%"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "phase-improvement",
+        "title": "Phase Progress",
+        "phases": [
+          {
+            "name": "Month 1-2: Foundation",
+            "progress": 25,
+            "status": "Foundation - Deploy 9-Grid & PMS"
+          },
+          {
+            "name": "Month 3-4: Workflows",
+            "progress": 50,
+            "status": "Workflow Mapping & Documentation"
+          },
+          {
+            "name": "Month 5-8: Kaizen",
+            "progress": 75,
+            "status": "Gemba Kaizen & Problem Solving"
+          },
+          {
+            "name": "Month 9-12: Excellence",
+            "progress": 100,
+            "status": "Sustainability & Leadership"
+          }
+        ]
+      },
+      {
+        "type": "outcomes",
+        "title": "Expected Outcomes",
+        "outcomes": [
+          {
+            "metric": "Overall Maturity",
+            "baseline": "13.3%",
+            "target": "36.7%",
+            "improvement": "+23.4 points"
+          },
+          {
+            "metric": "OEE Performance",
+            "baseline": "~75%",
+            "target": "82%",
+            "improvement": "+7 points"
+          },
+          {
+            "metric": "Quality Grade",
+            "baseline": "Good",
+            "target": "Excellent",
+            "improvement": "Elevated"
+          },
+          {
+            "metric": "Problem Resolution",
+            "baseline": "Ad-hoc",
+            "target": "Structured",
+            "improvement": "Systematic"
+          }
+        ]
+      },
+      {
+        "type": "kpi",
+        "title": "KPI Metrics",
+        "metrics": [
+          {
+            "area": "OEE",
+            "current": "~75%",
+            "target": "82%",
+            "owner": "Production Manager"
+          },
+          {
+            "area": "Quality",
+            "current": "Good",
+            "target": "Excellent",
+            "owner": "Quality Lead"
+          },
+          {
+            "area": "Safety",
+            "current": "Strong",
+            "target": "Best-in-Class",
+            "owner": "HSE Manager"
+          },
+          {
+            "area": "Cost",
+            "current": "Baseline",
+            "target": "-5%",
+            "owner": "Finance Lead"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Warehouse",
+    "icon": "\ud83c\udfed",
+    "slides": [
+      {
+        "type": "title",
+        "title": "WAREHOUSE DEPARTMENT",
+        "subtitle": "CarlEx Foundations Assessment",
+        "baseline": "3%",
+        "target": "55%",
+        "gap": "+2.2 levels"
+      },
+      {
+        "type": "radial",
+        "title": "Maturity Benchmark",
+        "subtitle": "5-Dimension Assessment",
+        "dimensions": [
+          {
+            "name": "Zone Management",
+            "current": 1,
+            "budgeted": 2,
+            "kastzalan": 3
+          },
+          {
+            "name": "Workflow Std",
+            "current": 0,
+            "budgeted": 2,
+            "kastzalan": 3
+          },
+          {
+            "name": "Visual Mgmt",
+            "current": 0,
+            "budgeted": 1,
+            "kastzalan": 2
+          },
+          {
+            "name": "Performance",
+            "current": 0,
+            "budgeted": 2,
+            "kastzalan": 2
+          },
+          {
+            "name": "Organizational",
+            "current": 0,
+            "budgeted": 1,
+            "kastzalan": 2
+          }
+        ]
+      },
+      {
+        "type": "assessment",
+        "title": "Current State",
+        "strengths": [
+          "Material sorting",
+          "Set-in-order partial",
+          "SAP system partial",
+          "Zone leaders identified"
+        ],
+        "gaps": [
+          "No zone mapping",
+          "Workflows not documented",
+          "SOPs outdated",
+          "Visual standards missing",
+          "9-Grid not cascaded"
+        ]
+      },
+      {
+        "type": "roadmap",
+        "title": "12-Month Roadmap",
+        "phases": [
+          {
+            "month": "Month 1-2",
+            "focus": "Foundation",
+            "activities": [
+              "Create zone map",
+              "Document workflows",
+              "Update SOPs"
+            ]
+          },
+          {
+            "month": "Month 3-4",
+            "focus": "Visual Mgmt",
+            "activities": [
+              "Visual standards",
+              "KPI displays",
+              "Shadow boards"
+            ]
+          },
+          {
+            "month": "Month 5-8",
+            "focus": "Performance",
+            "activities": [
+              "Deploy 9-Grid",
+              "PMS structure",
+              "RCA training"
+            ]
+          },
+          {
+            "month": "Month 9-12",
+            "focus": "Capability",
+            "activities": [
+              "Leadership dev",
+              "Gemba walks",
+              "Target 2.4/5"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "phase-improvement",
+        "title": "Phase Progress",
+        "phases": [
+          {
+            "name": "Month 1-2: Foundation",
+            "progress": 25,
+            "status": "Zone Maps & Workflows"
+          },
+          {
+            "name": "Month 3-4: Visual",
+            "progress": 50,
+            "status": "Visual Management"
+          },
+          {
+            "name": "Month 5-8: Performance",
+            "progress": 75,
+            "status": "Performance Management"
+          },
+          {
+            "name": "Month 9-12: Capability",
+            "progress": 100,
+            "status": "Kastzalan Level"
+          }
+        ]
+      },
+      {
+        "type": "outcomes",
+        "title": "Expected Outcomes",
+        "outcomes": [
+          {
+            "metric": "Overall Maturity",
+            "baseline": "3%",
+            "target": "55%",
+            "improvement": "+2.2 levels"
+          },
+          {
+            "metric": "Zone Management",
+            "baseline": "1/5",
+            "target": "3/5",
+            "improvement": "+2.0"
+          },
+          {
+            "metric": "Workflow Std",
+            "baseline": "0/5",
+            "target": "3/5",
+            "improvement": "+3.0"
+          },
+          {
+            "metric": "Visual Mgmt",
+            "baseline": "0/5",
+            "target": "2/5",
+            "improvement": "+2.0"
+          }
+        ]
+      },
+      {
+        "type": "kpi",
+        "title": "Key Focus Areas",
+        "metrics": [
+          {
+            "area": "Zone Management",
+            "current": "1/5",
+            "target": "3/5",
+            "owner": "Warehouse Manager"
+          },
+          {
+            "area": "Workflow Standardization",
+            "current": "0/5",
+            "target": "3/5",
+            "owner": "System Operators"
+          },
+          {
+            "area": "Visual Management",
+            "current": "0/5",
+            "target": "2/5",
+            "owner": "Zone Leaders"
+          },
+          {
+            "area": "Performance Management",
+            "current": "0/5",
+            "target": "2/5",
+            "owner": "Department Manager"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maintenance",
+    "icon": "\ud83d\udd27",
+    "slides": [
+      {
+        "type": "title",
+        "title": "MAINTENANCE DEPARTMENT",
+        "subtitle": "Carlsberg Excellence Roadmap",
+        "baseline": "13.5%",
+        "target": "40%+",
+        "gap": "+26.5%"
+      },
+      {
+        "type": "radial",
+        "title": "Maturity Benchmark",
+        "subtitle": "5-Dimension Assessment",
+        "dimensions": [
+          {
+            "name": "Zone Management",
+            "current": 2,
+            "budgeted": 3,
+            "kastzalan": 3
+          },
+          {
+            "name": "Workflow Std",
+            "current": 1,
+            "budgeted": 2,
+            "kastzalan": 3
+          },
+          {
+            "name": "Visual Mgmt",
+            "current": 1,
+            "budgeted": 2,
+            "kastzalan": 2
+          },
+          {
+            "name": "Performance",
+            "current": 2,
+            "budgeted": 3,
+            "kastzalan": 3
+          },
+          {
+            "name": "Organizational",
+            "current": 1,
+            "budgeted": 3,
+            "kastzalan": 3
+          }
+        ]
+      },
+      {
+        "type": "assessment",
+        "title": "Current State",
+        "strengths": [
+          "TPM fundamentals",
+          "Preventive maintenance",
+          "Equipment tracking",
+          "Technical competency"
+        ],
+        "gaps": [
+          "Predictive maintenance gaps",
+          "No digital asset mgmt",
+          "Workflow gaps",
+          "Leadership development"
+        ]
+      },
+      {
+        "type": "roadmap",
+        "title": "12-Month Roadmap",
+        "phases": [
+          {
+            "month": "Month 1-2",
+            "focus": "TPM Framework",
+            "activities": [
+              "TPM pillars",
+              "9-Grid cascade",
+              "Set KPIs"
+            ]
+          },
+          {
+            "month": "Month 3-4",
+            "focus": "Digital Transform",
+            "activities": [
+              "CMMS system",
+              "Asset database",
+              "Work orders"
+            ]
+          },
+          {
+            "month": "Month 5-8",
+            "focus": "Capability",
+            "activities": [
+              "TPM training",
+              "Problem-solving",
+              "Predictive maintenance"
+            ]
+          },
+          {
+            "month": "Month 9-12",
+            "focus": "Excellence",
+            "activities": [
+              "40%+ maturity",
+              "Gemba walks",
+              "Leadership bench"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "phase-improvement",
+        "title": "Phase Progress",
+        "phases": [
+          {
+            "name": "Month 1-2: TPM",
+            "progress": 25,
+            "status": "TPM Framework"
+          },
+          {
+            "name": "Month 3-4: Digital",
+            "progress": 50,
+            "status": "Digital Systems"
+          },
+          {
+            "name": "Month 5-8: Capability",
+            "progress": 75,
+            "status": "Training & Dev"
+          },
+          {
+            "name": "Month 9-12: Excellence",
+            "progress": 100,
+            "status": "Excellence Mode"
+          }
+        ]
+      },
+      {
+        "type": "outcomes",
+        "title": "Expected Outcomes",
+        "outcomes": [
+          {
+            "metric": "Overall Maturity",
+            "baseline": "13.5%",
+            "target": "40%+",
+            "improvement": "+26.5%"
+          },
+          {
+            "metric": "Equipment Avail",
+            "baseline": "92%",
+            "target": "97%",
+            "improvement": "+5 points"
+          },
+          {
+            "metric": "MTTR",
+            "baseline": "4 hrs",
+            "target": "2 hrs",
+            "improvement": "-50%"
+          },
+          {
+            "metric": "Preventive Ratio",
+            "baseline": "65%",
+            "target": "85%",
+            "improvement": "+20%"
+          }
+        ]
+      },
+      {
+        "type": "kpi",
+        "title": "Key Performance Targets",
+        "metrics": [
+          {
+            "area": "Equipment Availability",
+            "current": "92%",
+            "target": "97%",
+            "owner": "Maintenance Mgr"
+          },
+          {
+            "area": "Mean Time to Repair",
+            "current": "4 hrs",
+            "target": "2 hrs",
+            "owner": "Technical Lead"
+          },
+          {
+            "area": "Preventive Ratio",
+            "current": "65%",
+            "target": "85%",
+            "owner": "Planning Lead"
+          },
+          {
+            "area": "Safety Performance",
+            "current": "Strong",
+            "target": "Best-in-Class",
+            "owner": "HSE Coord"
+          }
+        ]
+      }
+    ]
+  }
+]
